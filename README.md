@@ -1,4 +1,6 @@
-Great. I’ll prepare a comprehensive 90-day development plan for building an AI-powered full-stack web application targeting the automobile industry. This includes a user-friendly chatbot with RAG capabilities, AI agents for part diagram generation, process planning, and digital twin simulation.
+#MainPlan_autoGPT
+
+The 90-day development plan for building an AI-powered full-stack web application targeting the automobile industry. This includes a user-friendly chatbot with RAG capabilities, AI agents for part diagram generation, process planning, and digital twin simulation.
 
 The plan will cover:
 
